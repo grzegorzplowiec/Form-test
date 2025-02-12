@@ -18,7 +18,6 @@ Projekt został stworzony w oparciu o:
 
 #### ⚙️ **Instalacja**
 Aby uruchomić testy lokalnie, wykonaj następujące kroki:
-
 1️⃣ Klonowanie repozytorium
 ```bash
 git clone https://github.com/grzegorzplowiec/Form-test.git
