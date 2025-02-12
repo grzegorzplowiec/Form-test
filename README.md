@@ -18,18 +18,22 @@ Projekt został stworzony w oparciu o:
 
 #### ⚙️ **Instalacja**
 Aby uruchomić testy lokalnie, wykonaj następujące kroki:
+
 1️⃣ Klonowanie repozytorium
 bash
 git clone https://github.com/grzegorzplowiec/Form-test.git
 cd Form-tests
+
 2️⃣ Utworzenie i aktywacja wirtualnego środowiska
 bash
 python -m venv venv
 source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate     # Windows
+
 3️⃣ Instalacja zależności
 bash
 pip install -r requirements.txt
+
 4️⃣ Uruchomienie testów
 bash
 pytest -m form
